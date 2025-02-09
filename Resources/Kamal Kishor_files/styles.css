@@ -91,12 +91,12 @@ footer {
 
 .links {
      justify-content: center;
-     margin-top: 20px;
+     margin-top: 40px;
     background: #fff;
  }
 
  .link-icons {
      width: 24px;
      height: 24px;
-    background: #0000;
+    background: #fff;
  }
